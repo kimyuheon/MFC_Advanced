@@ -12,3 +12,9 @@ exe 파일 경로에 .csv파일이 있다면 읽어서 그래프로 보여준다
 색상 인덱스 별로 테두리/채우기 선택하고 리스트 클릭 시 적용되도록 변경
 
 ![colorDlg](https://github.com/user-attachments/assets/f42f1237-191b-4c51-9742-cb5291545698)
+
+# UserButton
+
+CButton 상속 후 ON_WM_MOUSEMOVE()와 ON_WM_MOUSELEAVE() 메세지 추가
+
+![UserControl](https://github.com/user-attachments/assets/4ae6d041-c112-44fc-a152-7658ed4d408c)
