@@ -18,3 +18,9 @@ exe 파일 경로에 .csv파일이 있다면 읽어서 그래프로 보여준다
 CButton 상속 후 ON_WM_MOUSEMOVE()와 ON_WM_MOUSELEAVE() 메세지 추가
 
 ![UserControl](https://github.com/user-attachments/assets/4ae6d041-c112-44fc-a152-7658ed4d408c)
+
+# Draw Rectangle (EX_Draw_Rect)
+
+CPtrList 클래스를 사용하여 사각형 도형을 보관하고 제어하기
+
+![20241127_214720](https://github.com/user-attachments/assets/0ccd9455-5245-48fb-9437-19798c1cefcb)
